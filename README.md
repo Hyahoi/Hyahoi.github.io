@@ -9,3 +9,4 @@
 ## 技術的なこととか
 
 [相対リンクテスト](nikomeWeb/index.html)<br>
+[相対リンクテスト](nikomeWeb/index.html)<br>
