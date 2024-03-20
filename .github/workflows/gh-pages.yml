@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - test_blazor
+      - blazor_test
 
 jobs:
   deploy:
